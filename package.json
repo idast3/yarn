@@ -1,0 +1,11 @@
+{
+  "name": "newpackage",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/idast3/yarn",
+  "author": "Ida",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^3.4.1"
+  }
+}
